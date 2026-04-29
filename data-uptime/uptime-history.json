@@ -4,5 +4,11 @@
     "checks": 2,
     "online": 2,
     "uptimePercent": 100
+  },
+  {
+    "date": "2026-04-30",
+    "checks": 1,
+    "online": 1,
+    "uptimePercent": 100
   }
 ]
