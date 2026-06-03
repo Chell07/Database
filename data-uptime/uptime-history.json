@@ -211,8 +211,8 @@
   },
   {
     "date": "2026-06-03",
-    "checks": 3,
-    "online": 1,
-    "uptimePercent": 33.33
+    "checks": 4,
+    "online": 2,
+    "uptimePercent": 50
   }
 ]
