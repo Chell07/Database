@@ -190,5 +190,11 @@
     "checks": 16,
     "online": 7,
     "uptimePercent": 43.75
+  },
+  {
+    "date": "2026-07-20",
+    "checks": 1,
+    "online": 0,
+    "uptimePercent": 0
   }
 ]
