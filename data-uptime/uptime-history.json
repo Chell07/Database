@@ -1,155 +1,5 @@
 [
   {
-    "date": "2026-06-18",
-    "checks": 8,
-    "online": 8,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-06-19",
-    "checks": 7,
-    "online": 7,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-06-20",
-    "checks": 11,
-    "online": 11,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-06-21",
-    "checks": 10,
-    "online": 8,
-    "uptimePercent": 80
-  },
-  {
-    "date": "2026-06-22",
-    "checks": 7,
-    "online": 4,
-    "uptimePercent": 57.14
-  },
-  {
-    "date": "2026-06-23",
-    "checks": 8,
-    "online": 8,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-06-24",
-    "checks": 9,
-    "online": 9,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-06-25",
-    "checks": 10,
-    "online": 10,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-06-26",
-    "checks": 8,
-    "online": 8,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-06-27",
-    "checks": 12,
-    "online": 12,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-06-28",
-    "checks": 12,
-    "online": 6,
-    "uptimePercent": 50
-  },
-  {
-    "date": "2026-06-29",
-    "checks": 10,
-    "online": 10,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-06-30",
-    "checks": 9,
-    "online": 9,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-07-01",
-    "checks": 9,
-    "online": 9,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-07-02",
-    "checks": 10,
-    "online": 10,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-07-03",
-    "checks": 12,
-    "online": 12,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-07-04",
-    "checks": 14,
-    "online": 14,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-07-05",
-    "checks": 14,
-    "online": 10,
-    "uptimePercent": 71.43
-  },
-  {
-    "date": "2026-07-06",
-    "checks": 10,
-    "online": 10,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-07-07",
-    "checks": 10,
-    "online": 10,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-07-08",
-    "checks": 11,
-    "online": 11,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-07-09",
-    "checks": 10,
-    "online": 10,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-07-10",
-    "checks": 10,
-    "online": 10,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-07-11",
-    "checks": 15,
-    "online": 15,
-    "uptimePercent": 100
-  },
-  {
-    "date": "2026-07-12",
-    "checks": 16,
-    "online": 9,
-    "uptimePercent": 56.25
-  },
-  {
     "date": "2026-07-13",
     "checks": 13,
     "online": 13,
@@ -291,6 +141,12 @@
     "date": "2026-08-05",
     "checks": 11,
     "online": 11,
+    "uptimePercent": 100
+  },
+  {
+    "date": "2026-08-06",
+    "checks": 1,
+    "online": 1,
     "uptimePercent": 100
   }
 ]
