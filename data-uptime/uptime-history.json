@@ -247,8 +247,8 @@
   },
   {
     "date": "2026-08-23",
-    "checks": 5,
+    "checks": 6,
     "online": 3,
-    "uptimePercent": 60
+    "uptimePercent": 50
   }
 ]
