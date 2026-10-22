@@ -160,5 +160,11 @@
     "checks": 5,
     "online": 2,
     "uptimePercent": 40
+  },
+  {
+    "date": "2026-10-23",
+    "checks": 1,
+    "online": 1,
+    "uptimePercent": 100
   }
 ]
