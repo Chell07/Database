@@ -244,5 +244,11 @@
     "checks": 4,
     "online": 2,
     "uptimePercent": 50
+  },
+  {
+    "date": "2026-11-06",
+    "checks": 1,
+    "online": 0,
+    "uptimePercent": 0
   }
 ]
