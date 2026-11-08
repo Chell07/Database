@@ -259,8 +259,8 @@
   },
   {
     "date": "2026-11-08",
-    "checks": 3,
+    "checks": 4,
     "online": 3,
-    "uptimePercent": 100
+    "uptimePercent": 75
   }
 ]
