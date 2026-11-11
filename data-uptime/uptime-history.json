@@ -280,5 +280,11 @@
     "checks": 3,
     "online": 0,
     "uptimePercent": 0
+  },
+  {
+    "date": "2026-11-12",
+    "checks": 1,
+    "online": 0,
+    "uptimePercent": 0
   }
 ]
